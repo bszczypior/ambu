@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/ambu/static/js/main.487c2370.js",
+    "static/js/787.b665e186.chunk.js": "/ambu/static/js/787.b665e186.chunk.js",
+    "static/media/Home.svg": "/ambu/static/media/Home.187f9f924cc150c63f4547871f2afe90.svg",
+    "static/media/oxy.svg": "/ambu/static/media/oxy.8a7262e5ab93818ed3e3ebadd4d7ed89.svg",
+    "static/media/child.svg": "/ambu/static/media/child.5cd1a07e5049c303c4e5211a1675b411.svg",
+    "static/media/nose.svg": "/ambu/static/media/nose.124f9ba35f39b9f619066c6ca034df20.svg",
+    "static/media/fire.svg": "/ambu/static/media/fire.e10ca8ee57656c0ee194a78edfebd7fa.svg",
+    "static/media/menu.svg": "/ambu/static/media/menu.d7a069dd4546642bcc3467da460a3766.svg",
+    "static/media/close.svg": "/ambu/static/media/close.aab40a95994658c9a1b8ae3ac6e1cf63.svg",
+    "static/media/adrenalina.svg": "/ambu/static/media/adrenalina.e4e44e2522545769f70ff4d73ee1dd7e.svg",
+    "static/media/dopamina.svg": "/ambu/static/media/dopamina.fbdc2f47e4127bde84db1b1cfe09e06e.svg",
+    "index.html": "/ambu/index.html",
+    "main.487c2370.js.map": "/ambu/static/js/main.487c2370.js.map",
+    "787.b665e186.chunk.js.map": "/ambu/static/js/787.b665e186.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.487c2370.js"
+  ]
+}
