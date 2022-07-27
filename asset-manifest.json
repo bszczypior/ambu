@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/ambu/static/js/main.d6bb31d6.js",
+    "main.js": "/ambu/static/js/main.788d4b63.js",
     "static/js/787.b665e186.chunk.js": "/ambu/static/js/787.b665e186.chunk.js",
     "static/media/Home.svg": "/ambu/static/media/Home.187f9f924cc150c63f4547871f2afe90.svg",
     "static/media/oxy.svg": "/ambu/static/media/oxy.8a7262e5ab93818ed3e3ebadd4d7ed89.svg",
@@ -12,10 +12,10 @@
     "static/media/adrenalina.svg": "/ambu/static/media/adrenalina.e4e44e2522545769f70ff4d73ee1dd7e.svg",
     "static/media/dopamina.svg": "/ambu/static/media/dopamina.fbdc2f47e4127bde84db1b1cfe09e06e.svg",
     "index.html": "/ambu/index.html",
-    "main.d6bb31d6.js.map": "/ambu/static/js/main.d6bb31d6.js.map",
+    "main.788d4b63.js.map": "/ambu/static/js/main.788d4b63.js.map",
     "787.b665e186.chunk.js.map": "/ambu/static/js/787.b665e186.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.d6bb31d6.js"
+    "static/js/main.788d4b63.js"
   ]
 }
